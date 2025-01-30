@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alain/code.M3X/github.com/simplytech/better-enum/cpp-enum'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z15width_to_string9tag_Width, symObjAddr: 0x0, symBinAddr: 0x100003CB4, symSize: 0x94 }
+  - { offsetInCU: 0x8A, offset: 0x8A, size: 0x8, addend: 0x0, symName: __Z15width_to_string9tag_Width, symObjAddr: 0x0, symBinAddr: 0x100003CB4, symSize: 0x94 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: __Z15color_to_string5Color, symObjAddr: 0x94, symBinAddr: 0x100003D48, symSize: 0x94 }
+  - { offsetInCU: 0xE2, offset: 0xE2, size: 0x8, addend: 0x0, symName: __Z9use_width9tag_Width, symObjAddr: 0x128, symBinAddr: 0x100003DDC, symSize: 0x54 }
+  - { offsetInCU: 0x10A, offset: 0x10A, size: 0x8, addend: 0x0, symName: __Z9use_color5Color, symObjAddr: 0x17C, symBinAddr: 0x100003E30, symSize: 0x54 }
+  - { offsetInCU: 0x132, offset: 0x132, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1D0, symBinAddr: 0x100003E84, symSize: 0x8C }
+...
